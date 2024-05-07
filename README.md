@@ -44,3 +44,13 @@ https://www.npmjs.com/package/react-draggable
 https://www.npmjs.com/package/react-tilt
 
 https://vitejs.dev/
+
+\_\_\_GRÁFICOS
+
+- Usando o react router dom, criar uma rota para acessar uma nova página contendo 2 gráficos de sua escolha referentes a biblioteca recharts.
+
+https://recharts.org/en-US/
+
+https://reactrouter.com/en/main/start/tutorial
+
+
